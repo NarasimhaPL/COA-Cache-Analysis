@@ -1,0 +1,7 @@
+Policy,Total Accesses,Hits,Misses,Hit Ratio (%),Miss Ratio (%),Evictions,Writebacks
+FIFO,20,8,12,40.0,60.0,4,1
+LRU,20,7,13,35.0,65.0,5,2
+LFU,20,8,12,40.0,60.0,4,2
+MRU,20,8,12,40.0,60.0,4,1
+Random,20,8,12,40.0,60.0,4,1
+Clock,20,8,12,40.0,60.0,4,1
